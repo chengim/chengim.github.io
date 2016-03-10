@@ -1,0 +1,3 @@
+http://www.wikihow.com/Create-a-SQL-Server-Database
+
+Install Microsoft Server SQL Management Studio
